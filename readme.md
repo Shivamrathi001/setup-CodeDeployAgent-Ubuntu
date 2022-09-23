@@ -1,6 +1,5 @@
-# setup-rabbitMQ
+# setup-CodeDeployAgent-Ubuntu
 
-This script creates default username: admin and password: admin
 
 To run the script
 ### git clone https://github.com/Shivamrathi001/setup-CodeDeployAgent-Ubuntu.git
